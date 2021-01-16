@@ -17,4 +17,4 @@
 **Link to work:** [Random Password Generator](https://repl.it/@Yeshu07/Mini-Projects#RandomPasswordGenerator.py)
    
    
-# Projects using Tkinter ##(Advancing the above Projects)
+## Projects using Tkinter (Advancing the above Projects)
