@@ -22,3 +22,7 @@
 ## Project 5: Scientific calculator using Tkinter
 
 **Link to work** [Scientific calculator using Tkinter](https://repl.it/@Yeshu07/Mini-Projects#Scientific_Calculator_Using_Tkinter.py)
+
+## Project 6: Random Password Generator using Tkinter
+
+**Link to work** [Random Password Generator using Tkinter](https://repl.it/@Yeshu07/Mini-Projects#Random_Password_Generator_Using_Tkinter.py)
