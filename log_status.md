@@ -26,3 +26,11 @@
 ## Project 6: Random Password Generator using Tkinter
 
 **Link to work** [Random Password Generator using Tkinter](https://repl.it/@Yeshu07/Mini-Projects#Random_Password_Generator_Using_Tkinter.py)
+
+## Project 7: BMICalculator
+
+**Link to work** [BMICalculator](https://repl.it/@Yeshu07/Mini-Projects#BMICalculator.py)
+
+## Project 8: TodoList
+
+**Link to work** [TodoList](https://repl.it/@Yeshu07/Mini-Projects#Todolist.py)
