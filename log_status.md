@@ -34,3 +34,11 @@
 ## Project 8: TodoList
 
 **Link to work** [TodoList](https://repl.it/@Yeshu07/TodoList#Todolist.py)
+
+## Projects using Database tools and Python
+
+## Project 9: Simple Course helper with SQLlite
+
+**Link to work** [Simple Course helper with SQLlite](https://replit.com/@Yeshu07/SimpleCoursehelper#main.py)
+
+
